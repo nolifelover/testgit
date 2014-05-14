@@ -1,4 +1,4 @@
 datasource:{
 	username: "root",
-	password: "password"
+	password: ""
 }
